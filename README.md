@@ -60,6 +60,11 @@ A fully custom DIY macropad, designed from the PCB up. This repository contains 
 
 ## PCB
 
+### PCB Design
+
+![PCB Design](PCB_Design.png)
+
+
 ### PCB Top
 ![PCB Top](PCB_Top.png)
 
