@@ -83,7 +83,7 @@ A fully custom DIY macropad, designed from the PCB up. This repository contains 
 
 
 ### Case Side
-[Case Side](Case_Side.png)
+![Case Side](Case_Side.png)
 
 ---
 
