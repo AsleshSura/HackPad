@@ -60,24 +60,29 @@ A fully custom DIY macropad, designed from the PCB up. This repository contains 
 
 ## PCB
 
-PCB Top
+### PCB Top
 ![PCB Top](PCB_Top.png)
 
-PCB Bottom
+
+### PCB Bottom
 ![PCB Bottom](PCB_Bottom.png)
 
 ## Case
 
-Top Layer
+
+### Top Layer
 ![Top Layer](Top_Layer.png)
 
-Base
+
+### Base
 ![Base](Base.png)
 
-Case Top
+
+### Case Top
 ![Case Top](Case_Top.png)
 
-Case Side
+
+### Case Side
 ![Case Side](Case_Side.png)
 
 ---
